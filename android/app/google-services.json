@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "51400512991",
+    "project_id": "bloodhub-b960f",
+    "storage_bucket": "bloodhub-b960f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51400512991:android:89abd37e414b0f8532a06a",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51400512991-u73sjd7rdcsvr6em461kgienbjiu7f51.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWkUYkhcZwuZ1sJbv5lFEAskKVEylpOKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "51400512991-u73sjd7rdcsvr6em461kgienbjiu7f51.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
